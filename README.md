@@ -2,5 +2,8 @@
 
 Daily LeetCode solutions in Java, organized by topic.
 
-## Structure
-Each folder is a topic (Arrays, Binary_Search, DP, etc.). Files are named after the problem, e.g. `LongestConsecutiveSequence.java`.
+## Progress
+
+| # | Problem | Topic | Difficulty | Solution | Date |
+|---|---------|-------|------------|----------|------|
+|  |  |  |  | [Java](/.java) | 2026-10-08 |
