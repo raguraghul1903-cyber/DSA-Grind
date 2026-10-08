@@ -19,6 +19,7 @@
 | # | Problem | Difficulty | Solution | Key Approach & Complexity | Status | Revision |
 |:---:|---|:---:|:---:|---|:---:|:---:|
 | 0001 | [Example Problem](#) | 🟢 Easy | [Solution](#) | Approach details, O(N) time / O(1) space | ⌛ Pending | 🔄 |
+| 283 | [Move Zeroes](MoveZeroes.java) | 🟢 Easy | [Solution](MoveZeroes.java) | Two pointers, compact non-zeros then zero-fill, O(N) time / O(1) space | ✅ Solved | |
 
 > **Status Legend:**
 >
